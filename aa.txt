@@ -1,0 +1,4 @@
+Id             NAME                               DEPERTMENT                                  MAJOR               MOBILE_NO       SSC_GPA     HSC_GPA
+1              minhaj uddin                       advddsf                                      dvcvd               023164          4.3        3.25
+22             fgd                                fdfds                                        fdfd                4               1           2
+22             fgd                                fdfds                                        fdfd                4               1           2
